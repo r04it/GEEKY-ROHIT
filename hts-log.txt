@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 19 Nov 2020 01:33:11 at https://kuon.space/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://kuon.space/ -O1 "C:\Users\rkg42\Downloads\https___kuon.space_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:33:37	Error: 	"Not Found" (404) at link https://kuon.space/ribbons/awwwards_honorable_black_left.png (from https://kuon.space/awwwards.css)
+01:33:37	Error: 	"Not Found" (404) at link https://kuon.space/ribbons/awwwards_honorable_black_right.png (from https://kuon.space/awwwards.css)
+01:33:37	Error: 	"Not Found" (404) at link https://kuon.space/ribbons/awwwards_honorable_silver_left.png (from https://kuon.space/awwwards.css)
+01:33:37	Error: 	"Not Found" (404) at link https://kuon.space/ribbons/awwwards_honorable_silver_right.png (from https://kuon.space/awwwards.css)
+01:33:37	Error: 	"Not Found" (404) at link https://kuon.space/ribbons/awwwards_honorable_white_left.png (from https://kuon.space/awwwards.css)
+01:33:37	Error: 	"Not Found" (404) at link https://kuon.space/ribbons/awwwards_honorable_green_left.png (from https://kuon.space/awwwards.css)
+01:33:37	Error: 	"Not Found" (404) at link https://kuon.space/ribbons/awwwards_honorable_green_right.png (from https://kuon.space/awwwards.css)
+01:33:37	Error: 	"Not Found" (404) at link https://kuon.space/ribbons/awwwards_honorable_black_left@2x.png (from https://kuon.space/awwwards.css)
+01:33:37	Error: 	"Not Found" (404) at link https://kuon.space/ribbons/awwwards_honorable_black_right@2x.png (from https://kuon.space/awwwards.css)
+01:33:37	Error: 	"Not Found" (404) at link https://kuon.space/ribbons/awwwards_honorable_silver_left@2x.png (from https://kuon.space/awwwards.css)
+01:33:37	Error: 	"Not Found" (404) at link https://kuon.space/ribbons/awwwards_honorable_silver_right@2x.png (from https://kuon.space/awwwards.css)
+01:33:37	Error: 	"Not Found" (404) at link https://kuon.space/ribbons/awwwards_honorable_white_left@2x.png (from https://kuon.space/awwwards.css)
+01:33:37	Error: 	"Not Found" (404) at link https://kuon.space/ribbons/awwwards_honorable_green_left@2x.png (from https://kuon.space/awwwards.css)
+01:33:37	Error: 	"Not Found" (404) at link https://kuon.space/ribbons/awwwards_honorable_green_right@2x.png (from https://kuon.space/awwwards.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 seconds : 70 links scanned, 55 files written (2244433 bytes overall) [1975897 bytes received at 75996 bytes/sec], 903584 bytes transferred using HTTP compression in 55 files, ratio 61%, 10.0 requests per connection
+(14 errors, 0 warnings, 0 messages)
